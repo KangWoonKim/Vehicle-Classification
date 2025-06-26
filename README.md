@@ -1,5 +1,5 @@
 <!-- File: README_data_prep.md -->
-# README for Data Preparation Script (`data_prep.py`)
+# README for Data Preparation Script (`dataprep.py`)
  
 ## Overview
  
@@ -66,7 +66,7 @@ python data_prep.py config.json
 ---
 
 <!-- File: README_distribution_checker.md -->
-# README for Distribution Checker (`distribution_checker.py`)
+# README for Distribution Checker (`distribution checker.py`)
  
 ## Overview
  
