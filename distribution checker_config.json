@@ -1,0 +1,5 @@
+{
+  "input": "/path/to/merged_dataset.csv",
+  "numeric_output": "/path/to/numeric_distribution_summary.csv",
+  "categorical_output": "/path/to/categorical_distribution_summary.csv"
+}
