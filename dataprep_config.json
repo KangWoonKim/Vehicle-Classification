@@ -1,0 +1,16 @@
+{
+  "quotes": {
+    "files": [
+      "/path/to/quote1.csv",
+      "/path/to/quote2.csv",
+      "/path/to/quote3.csv"
+    ],
+    "output": "/path/to/merged_quotes.csv"
+  },
+  "vehicle": {
+    "file": "/path/to/vehicles.csv",
+    "abi_quote_col": "QuoteABI",
+    "abi_vehicle_col": "VehABI",
+    "output": "/path/to/final_merged.csv"
+  }
+}
